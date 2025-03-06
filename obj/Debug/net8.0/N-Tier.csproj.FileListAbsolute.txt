@@ -1,0 +1,7 @@
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.csproj.AssemblyReference.cache
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.GeneratedMSBuildEditorConfig.editorconfig
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.AssemblyInfoInputs.cache
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.AssemblyInfo.cs
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.csproj.CoreCompileInputs.cache
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.MvcApplicationPartsAssemblyInfo.cs
+P:\Konecta\Backend\Session 4\Task\N-Tier\N-Tier\obj\Debug\net8.0\N-Tier.MvcApplicationPartsAssemblyInfo.cache
