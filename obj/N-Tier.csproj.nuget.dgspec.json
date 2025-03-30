@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-tier\\N-Tier.csproj": {}
+    "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-Tier.csproj": {}
   },
   "projects": {
-    "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-tier\\N-Tier.csproj": {
+    "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-Tier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-tier\\N-Tier.csproj",
+        "projectUniqueName": "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-Tier.csproj",
         "projectName": "N-Tier",
-        "projectPath": "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-tier\\N-Tier.csproj",
+        "projectPath": "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-Tier.csproj",
         "packagesPath": "C:\\Users\\yamf2\\.nuget\\packages\\",
-        "outputPath": "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\N-tier\\obj\\",
+        "outputPath": "P:\\Konecta\\Backend\\Session 4\\Task\\N-Tier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -79,6 +79,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[9.0.3, )"
             },

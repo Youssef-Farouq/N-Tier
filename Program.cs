@@ -62,6 +62,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+builder.Services.AddHostedService<ProductBackgroundService>();
+builder.Services.AddHttpClient<ProductBackgroundService>();
 app.UseHttpsRedirection();
 app.UseAuthentication(); // 🔥 Add this to enable authentication
 app.UseAuthorization();
